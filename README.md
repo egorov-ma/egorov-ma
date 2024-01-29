@@ -1,5 +1,4 @@
-<h1 align="center">Всем привет, я Макс
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, я Макс 👋</h1>
 <h3 align="center">Senior QA Engineer (Junior Automation, Java)</h3>
 
 ![egorov-ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorov-ma&show_icons=true&bg_color=00000000)
