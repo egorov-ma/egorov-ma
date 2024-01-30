@@ -29,8 +29,8 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-<img style="border-radius: 5px;" src="media/err.jpg" width="195" title="err">![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=algolia)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=algolia)
+<img style="border-radius: 5px;" src="media/err.jpg" width="200" title="err">
 ### Дипломные проекты 🎓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests)](https://github.com/egorov-ma/sport-marafon-tests)
