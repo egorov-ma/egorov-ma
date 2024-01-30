@@ -1,13 +1,20 @@
 <h1 align="center">Привет, я Макс 👋</h1>
 <h3 align="center">Senior QA Engineer (Junior Automation, Java)</h3>
 
-- 🌱 Я изучаю **QA, Java, Agile**
-- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) на проекьк **ВТБ**
-- 🧑‍💻 Сейчас я пишу дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
+- 🎓 Я изучаю **QA, Java, Agile**
+- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) на проекте **ВТБ**
+- 💻 Сейчас я пишу дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
-- 📄 Мой опыт [**Habr Career (draft)**](https://career.habr.com/)
+- 📄 Моё резюме на  [**Habr Career (draft)**](https://career.habr.com/)
 
-<img style="border-radius: 5px;" src="media/err.jpg" width="195" title="err">![egorov-ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorov-ma&show_icons=true&bg_color=00000000)
+<p align="center">
+    <a href="https://t.me/egorovma" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@egorovma-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="20"></a>
+    <a href="mailto:link@egorovma.ru" target="_blank"><img alt="yandex" src="https://img.shields.io/badge/@yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white" height="20"></a>
+    <a href="https://www.linkedin.com/in/(draft)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="20"></a>
+    <a href="https://github.com/egorov-ma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a>
+</p>
+
+<img style="border-radius: 5px;" src="media/err.jpg" width="195" title="err">![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=algolia)
 
 ### Мои инструменты и технологии:
 
@@ -26,29 +33,12 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-### Как со мной связаться:
 
-[![Telegram](https://img.shields.io/badge/@egorovma-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/egorovma)
-</a> </br>
-<a href="mailto:link@egorovma.ru">
-<img src="https://img.shields.io/badge/Yandex-red?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail Badge"/>
-</a>
+
+
+
+
 
 ### Дипломные проекты 🎓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests)](https://github.com/egorov-ma/sport-marafon-tests)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
