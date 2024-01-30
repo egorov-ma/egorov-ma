@@ -1,28 +1,13 @@
-<!DOCTYPE html>
-<html>
- <head>
-  <meta charset="utf-8">
-  <title>Изображения</title>
-  <style>
-   .round {
-    border-radius: 5px;
-   }
-  </style>
- </head>
-</html>
-
 <h1 align="center">Привет, я Макс 👋</h1>
 <h3 align="center">Senior QA Engineer (Junior Automation, Java)</h3>
 
-
----
 - 🌱 Я изучаю **QA, Java, Agile**
 - 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) на проекьк **ВТБ**
 - 🧑‍💻 Сейчас я пишу дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
 - 📄 Мой опыт [**Habr Career (draft)**](https://career.habr.com/)
 
-<img src="media/err.jpg" width="195" alt="" class="round">![egorov-ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorov-ma&show_icons=true&bg_color=00000000)
+<img style="border-radius: 5px;" src="media/err.jpg" width="195" title="err">![egorov-ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorov-ma&show_icons=true&bg_color=00000000)
 
 ### Мои инструменты и технологии:
 
