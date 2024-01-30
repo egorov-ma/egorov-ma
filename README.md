@@ -9,8 +9,8 @@
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
 - 📄 Мой опыт [**Habr Career (draft)**](https://career.habr.com/)
 ---
-![egorov-ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorov-ma&show_icons=true&bg_color=00000000)
-<img src="media/err.jpg" width="195">
+<img src="media/err.jpg" width="195">![egorov-ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorov-ma&show_icons=true&bg_color=00000000)
+
 ---
 
 
