@@ -7,9 +7,9 @@
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
 
 <p align="center">
-    <a href="https://github.com/egorov-ma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a>
     <a href="https://t.me/egorovma" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@egorovma-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="20"></a>
-    <a href="mailto:link@egorovma.ru" target="_blank"><img alt="yandex" src="https://img.shields.io/badge/@yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white" height="20"></a>
+    <a href="mailto:link@egorovma.ru" target="_blank"><img alt="mail.yandex" src="https://img.shields.io/badge/@mail.yandex-%23FF0000.svg?&style=for-the-badge&logo=yandex&logoColor=white" height="20"></a>
+    <a href="https://github.com/egorov-ma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="20"></a> 
     <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="20"></a>
     <a href="https://career.habr.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/habr career-%2377A2B6.svg?&style=for-the-badge&logo=habr&logoColor=white" height="20"></a>
 </p>
@@ -29,9 +29,9 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=blueberry)
 <img style="border-radius: 5px;" src="media/err.jpg" width="200" title="err">
 ### Дипломные проекты 🎓
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests)](https://github.com/egorov-ma/sport-marafon-tests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests)](https://github.com/egorov-ma/chitai-gorod-tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests&theme=blueberry)](https://github.com/egorov-ma/sport-marafon-tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/egorov-ma/chitai-gorod-tests)
