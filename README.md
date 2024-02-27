@@ -34,3 +34,4 @@
 ### Дипломные проекты 🎓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests)](https://github.com/egorov-ma/sport-marafon-tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests)](https://github.com/egorov-ma/chitai-gorod-tests)
