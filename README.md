@@ -2,7 +2,7 @@
 <h3 align="center">Senior QA Engineer (Junior Automation, Java)</h3>
 
 - 🎓 Я изучаю **QA, Java, Agile**
-- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) на проекте **ВТБ**
+- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/)
 - 💻 Сейчас я пишу дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
 
@@ -29,8 +29,19 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=blueberry)
-<img style="border-radius: 5px;" src="media/err.jpg" width="200" title="err">
+<div style="display: flex; align-items: baseline; height: 200px;">
+<div style="height: inherit; flex-basis: 50%;">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=default)
+
+</div>
+
+<div style="display: flex; justify-content: center; flex-basis: 50%; background-color: red; border-radius: 5px; height: 100%">
+    <img style="border-radius: 5px;" src="media/err.jpg" title="err">
+</div>
+</div>
+
+
 ### Дипломные проекты 🎓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests&theme=blueberry)](https://github.com/egorov-ma/sport-marafon-tests)
