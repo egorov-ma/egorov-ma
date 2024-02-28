@@ -29,7 +29,7 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=blueberry)
 <img style="border-radius: 5px; width: 200px;" src="media/err.jpg" title="err">
 
 ### Дипломные проекты 🎓
