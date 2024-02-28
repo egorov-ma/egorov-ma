@@ -36,3 +36,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests&theme=blueberry)](https://github.com/egorov-ma/sport-marafon-tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/egorov-ma/chitai-gorod-tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/egorov-ma/wikipedia-tests)
