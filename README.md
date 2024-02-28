@@ -29,18 +29,8 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
-<div style="display: flex; align-items: baseline; height: 200px;">
-<div style="height: inherit; flex-basis: 50%;">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=default)
-
-</div>
-
-<div style="display: flex; justify-content: center; flex-basis: 50%; background-color: red; border-radius: 5px; height: 100%">
-    <img style="border-radius: 5px;" src="media/err.jpg" title="err">
-</div>
-</div>
-
+<img style="border-radius: 5px; width: 200px;" src="media/err.jpg" title="err">
 
 ### Дипломные проекты 🎓
 
