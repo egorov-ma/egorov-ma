@@ -2,8 +2,8 @@
 <h3 align="center">Senior QA Engineer (Junior Automation, Java)</h3>
 
 - 🎓 Я изучаю **QA, Java, Agile**
-- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/)
-- 💻 Сейчас я пишу дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
+- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) в роли Senior QA Engineer и Scrum Master
+- 💻 Ниже можете увидеть мой дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
 
 <p align="center">
