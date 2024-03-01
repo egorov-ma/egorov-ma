@@ -2,8 +2,8 @@
 <h3 align="center">Senior QA Engineer (Junior Automation, Java)</h3>
 
 - 🎓 Я изучаю **QA, Java, Agile**
-- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) на проекте **ВТБ**
-- 💻 Сейчас я пишу дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
+- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) в роли Senior QA Engineer и Scrum Master
+- 💻 Ниже можете увидеть мой дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
 
 <p align="center">
@@ -30,8 +30,10 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=blueberry)
-<img style="border-radius: 5px;" src="media/err.jpg" width="200" title="err">
+<img style="border-radius: 5px; width: 200px;" src="media/err.jpg" title="err">
+
 ### Дипломные проекты 🎓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests&theme=blueberry)](https://github.com/egorov-ma/sport-marafon-tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/egorov-ma/chitai-gorod-tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=wikipedia-tests&theme=blueberry)](https://github.com/egorov-ma/wikipedia-tests)
