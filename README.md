@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Макс 👋</h1>
-<h3 align="center">Senior QA Engineer (Middle Automation, Java)</h3>
+<h3 align="center">Senior QA Engineer</h3>
 
 - 🎓 Я изучаю **QA, Java, Agile**
 - 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) в роли Senior QA Engineer и Scrum Master
