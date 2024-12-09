@@ -1,8 +1,8 @@
 <h1 align="center">Привет, я Макс 👋</h1>
 <h3 align="center">Senior QA Engineer</h3>
 
-- 🎓 Я изучаю **QA, Java, Agile**
-- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) в роли Senior QA Engineer и Scrum Master
+- 🎓 Я изучаю **QA, Java, DevOps, CI/CD**
+- 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) в роли QA Engineer
 - 💻 Ниже можете увидеть мой дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
 - 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
 
