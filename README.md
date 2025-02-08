@@ -3,8 +3,8 @@
 
 - 🎓 Я изучаю **QA, Java, DevOps, CI/CD**
 - 💼 Работаю в компании [**Neoflex**](https://www.neoflex.ru/) в роли QA Engineer
-- 💻 Ниже можете увидеть мой дипломный проект для лучшей школы автоматизации [**QA.GURU**](https://qa.guru/)
-- 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕
+- 💻 Ниже можете увидеть несколько моих пэт проект по автоматизации
+- 💬 Помимо тестирования можете у меня спросить про: *бег* 🏃‍♂️ *пеший туризм* 🏔️ *китайский чай* ☕ *плавание* 🏊
 
 <p align="center">
     <a href="https://t.me/egorovma" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@egorovma-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="20"></a>
