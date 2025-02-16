@@ -32,8 +32,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorov-ma&theme=blueberry)
 <img style="border-radius: 5px; width: 200px;" src="media/err.jpg" title="err">
 
-### Дипломные проекты 🎓
+### Проектики 🎓
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=aquastream&theme=blueberry)](https://github.com/egorov-ma/aquastream)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests&theme=blueberry)](https://github.com/egorov-ma/sport-marafon-tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/egorov-ma/chitai-gorod-tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=wikipedia-tests&theme=blueberry)](https://github.com/egorov-ma/wikipedia-tests)
